@@ -1,7 +1,7 @@
 # mistery gift #3
 200 point
 # Description
-Сможешь обойти эту проверку? http://158.160.35.89:5200/__
+Сможешь обойти эту проверку? http://158.160.35.89:5200/ <br />
 zip file with the website directories is given.
 # Solution
 We see the same page as in "mistery gift #2" and "mistery gift #3" so let's just do the same things.
