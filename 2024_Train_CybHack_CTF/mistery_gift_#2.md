@@ -11,5 +11,5 @@ After the pressing the button all we see is a picture. But there's nothing we ca
 ![image](https://github.com/danzyxd/CTFs/assets/144260597/8a46578b-6bdf-47d3-8eaa-ed5d54c8a7d1)
 It gives us an error page, seems like there's no flag.txt file, so let's try in other directory, especially an upper one< to do it we have to put "../" before the "flag.txt".
 ![image](https://github.com/danzyxd/CTFs/assets/144260597/10bbf30d-dccf-46be-9908-ba869fe5d17d)
-Here we go.
+Here we go. kxctf{th1s_1s_v3ry_s1mpL3_path_trav3rsal}
 ![image](https://github.com/danzyxd/CTFs/assets/144260597/167ee4ec-3648-433b-9c07-2ffe65af03d8)
