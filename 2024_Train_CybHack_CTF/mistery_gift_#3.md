@@ -4,7 +4,7 @@
 Сможешь обойти эту проверку? http://158.160.35.89:5200/ <br />
 zip file with the website directories is given.
 # Solution
-We see the same page as in "mistery gift #2" and "mistery gift #3" so let's just do the same things.
+We see the same page as in "mistery gift #1" and "mistery gift #2" so let's just do the same things as before.
 
 <img src="https://github.com/danzyxd/CTFs/assets/144260597/0f08f7f9-5c58-41b1-aae2-cf8cb9d99031" width=70% height=70%>
 
