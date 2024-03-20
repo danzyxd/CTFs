@@ -12,11 +12,11 @@ But typing "../flag.txt" gives us nothing, so let's just take a look at the zip 
 
 <img src="https://github.com/danzyxd/CTFs/assets/144260597/a11db32e-8a58-4ce3-8d59-7ecceaa639be" width=70% height=70%>
 
-The first thing we see is ofcourse the flag.txt file, but it is not a real flag, the real one lays on the server, so lets fide where is the gift.jpg
+The first thing we see is of course the flag.txt file, but it is not a real flag, the real one lays on the server, so lets find the gift.jpg
 
-![image](https://github.com/danzyxd/CTFs/assets/144260597/bf36956b-a002-4828-9f10-73e0c308d49e)
+<img src="https://github.com/danzyxd/CTFs/assets/144260597/bf36956b-a002-4828-9f10-73e0c308d49e" width=70% height=70%>
 
 So we found a picture in the "uploads" folder. But going up by "../" to get a flag.txt didnt work. Let's check the main website code(app.py) file then.
 
-![image](https://github.com/danzyxd/CTFs/assets/144260597/5b57e218-231b-415b-8887-46af9ee7d2d9)
+<img src="https://github.com/danzyxd/CTFs/assets/144260597/5b57e218-231b-415b-8887-46af9ee7d2d9" width=70% height=70%>
 
