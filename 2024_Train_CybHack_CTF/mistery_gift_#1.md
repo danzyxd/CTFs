@@ -4,7 +4,7 @@
 заберешь подарок ?) вот тут http://158.160.35.89:5000/
 # Solution
 Let's visit that website.
-All we see here is a message 'To get the gift..' and two 'Login' and 'Regestration' buttuons below.
+All we see here is a message 'To get the gift..' and two 'Login' and 'Regestration' buttons below.
 ![image](https://github.com/danzyxd/CTFs/assets/144260597/dd3dd709-288b-40fe-becb-b35128805b6e)
 Firslty let's try the very basic SQL injection, trying login as an admin. All we have to do is type "admin'--" in the login string and anything in the password(doesn't matter what, i typed '123').
 ![image](https://github.com/danzyxd/CTFs/assets/144260597/9f333113-85e9-4607-9935-32ed45880f54)
