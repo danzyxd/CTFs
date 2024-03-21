@@ -17,7 +17,7 @@ That didn't work, so we have to register an account.
  ![image](https://github.com/danzyxd/CTFs/assets/144260597/d1b219c2-2690-4948-b714-85fb78c6d74f) <br />
  ![image](https://github.com/danzyxd/CTFs/assets/144260597/533eaa44-3c08-4f83-ac89-aeae8be16e26)
 
-By the name of the task we can assume that there is may be an union based SQl injection. So let's check it. We typed " ' order by 1-- " and it worked, now we need to know how many columns is there by rising "order by" number till website will show us an error.
+By the name of the task we can assume that there is may be an union based SQl injection. So let's check it. We typed " ' order by 1-- " and it worked, now we need to know how many columns is there by rising "order by" number till website will show us an error. <br />
 So at the " 'order by 4--" site showed us an error which means that there's 3 column's. Now we have to know what can we get from the server by that.
 
 ![image](https://github.com/danzyxd/CTFs/assets/144260597/7f710f5e-17da-4f91-b41f-c866c418deb5)
