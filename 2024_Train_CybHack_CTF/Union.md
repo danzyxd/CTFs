@@ -30,6 +30,6 @@ By looking at the code we can find a function that creates a "username" and "pas
 
 By typing "' union select username, password, '01.01.2000' from users--" in the websites searching string we will get all users usernames and passwords and among them we can find admins password. kxctf{un10n_b4s3d_sql1_4r3_v3ry_34sy}
 
-![Uploading image.png…]()
+![image](https://github.com/danzyxd/CTFs/assets/144260597/dfe4c799-c937-48f8-a542-69d14fceae1d)
 
-
+![image](https://github.com/danzyxd/CTFs/assets/144260597/f0a4eace-eb43-4676-9c02-09886be93817)
