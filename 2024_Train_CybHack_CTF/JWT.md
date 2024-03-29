@@ -1,7 +1,7 @@
 # JWT
 200 points
 # Description
-Сможешь понять, как это работает? http://158.160.35.89:8000/
+Сможешь понять, как это работает? http://158.160.35.89:8000/ <br />
 python file is given
 # Solution
 Firstly let's follow the link. All we have there is a text saying that we need to take a look at the site source file. 
