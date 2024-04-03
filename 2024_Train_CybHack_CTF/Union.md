@@ -1,5 +1,5 @@
 # Union
-200 points
+Web | 200 points
 # Description
 Вот тебе таск посложнее! http://158.160.35.89:1234/login <br />
 zip file is given.
