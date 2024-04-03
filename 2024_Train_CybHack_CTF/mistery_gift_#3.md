@@ -1,5 +1,5 @@
 # mistery gift #3
-Web | 200 point
+Web | 200 points
 # Description
 Сможешь обойти эту проверку? http://158.160.35.89:5200/ <br />
 zip file with the website directories is given.
