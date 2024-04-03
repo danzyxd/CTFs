@@ -1,5 +1,5 @@
 # mistery gift #2
-200 points
+Web | 200 points
 # Description
 заберешь еще один подарок?) вот тут http://158.160.35.89:5100/
 # Solution
