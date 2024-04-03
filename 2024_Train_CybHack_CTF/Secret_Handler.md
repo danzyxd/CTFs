@@ -1,5 +1,5 @@
 # Secret Handler
-200 point
+Web | 200 point
 # Description
 Сможешь найти секретный функционал? <br />
 http://158.160.35.89:1717/login
