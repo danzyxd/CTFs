@@ -1,6 +1,5 @@
 # JWT
-Web
-200 points
+Web | 200 points
 # Description
 Сможешь понять, как это работает? http://158.160.35.89:8000/ <br />
 python file is given
