@@ -1,5 +1,5 @@
 # strongbox
-200 points 
+Web | 200 points 
 # Description
 Точно strong??? http://158.160.35.89:31337/ <br />
 Two hints are given: <br />
