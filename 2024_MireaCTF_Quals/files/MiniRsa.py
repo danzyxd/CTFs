@@ -9,8 +9,8 @@ flag = [int.from_bytes(flag[i - 5:i]) for i in range(5, len(flag) + 1, 5)]
 
 e = 11
 
-p = 1081789
-q = 1081813
+p = ...
+q = ...
 
 N = p*q
 
